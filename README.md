@@ -61,8 +61,12 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArshadShaik04&show_icons=true&hide=issues&hide_border=true&theme=default" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshadShaik04&hide_border=true&theme=default" height="170" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArshadShaik04&show_icons=true&hide=issues&hide_border=true&theme=default" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshadShaik04&hide_border=true&theme=default" height="165" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshadShaik04&layout=compact&langs_count=6&hide=c&hide_border=true&theme=default" height="160" alt="Top Languages"/>
 </p>
 
 ---
